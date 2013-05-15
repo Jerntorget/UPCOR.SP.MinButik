@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="487fb2bd-91b3-4931-a44f-a8772a842716" solutionId="487fb2bd-91b3-4931-a44f-a8772a842716" resetWebServer="false" sharePointProductVersion="15.0" name="UPCOR.SP.MinButik" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="91ce3b76-87d9-4cb7-bf98-76d930efc354" />
+  </features>
+</package>

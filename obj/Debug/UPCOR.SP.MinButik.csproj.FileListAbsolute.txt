@@ -1,0 +1,5 @@
+c:\Projects\UPCOR.SP.MinButik\bin\Debug\UPCOR.SP.MinButik.dll
+c:\Projects\UPCOR.SP.MinButik\bin\Debug\UPCOR.SP.MinButik.pdb
+c:\Projects\UPCOR.SP.MinButik\obj\Debug\UPCOR.SP.MinButik.csprojResolveAssemblyReference.cache
+c:\Projects\UPCOR.SP.MinButik\obj\Debug\UPCOR.SP.MinButik.dll
+c:\Projects\UPCOR.SP.MinButik\obj\Debug\UPCOR.SP.MinButik.pdb

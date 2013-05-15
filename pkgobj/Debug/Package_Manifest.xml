@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="487fb2bd-91b3-4931-a44f-a8772a842716" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="UPCOR.SP.MinButik.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="UPCOR.SP.MinButik, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f66bbd75f013e009" Namespace="UPCOR.SP.MinButik.MinButikWP" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="UPCOR.SP.MinButik_MinButik\Feature.xml" />
+  </FeatureManifests>
+</Solution>

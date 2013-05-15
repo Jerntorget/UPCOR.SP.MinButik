@@ -1,0 +1,1 @@
+bin\Debug\UPCOR.SP.MinButik.wsp

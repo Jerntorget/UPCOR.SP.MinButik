@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="UPCOR.SP.MinButik Feature1" Id="8b2b38f1-b6f6-4e4f-bf7d-c4e833d250a3" Scope="Site">
+  <ElementManifests>
+    <ElementManifest Location="MinButikWP\Elements.xml" />
+    <ElementFile Location="MinButikWP\MinButikWP.webpart" />
+  </ElementManifests>
+</Feature>
